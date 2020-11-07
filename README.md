@@ -1,0 +1,1 @@
+This is a repository to reproduce the question in GitHub with a OneToOne biderectional relation in hibernte
